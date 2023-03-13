@@ -10,7 +10,8 @@
 					"What is JSON, XML. Their structure",
 					"API testing via Postman (JS, API autotests)",
 				        "Removing and reading logs from an external server",
-					"Sniffing http web traffic via Charles and Fiddler",																 "Dev Tools of web browsers (Google Chrome, FireFox)",
+					"Sniffing http web traffic via Charles and Fiddler",
+			                "Dev Tools of web browsers (Google Chrome, FireFox)",
 					"VPN. (How it works, why you need it, how to use it, tool options)",
 				        "Mobile testing",
 					"Feature iOS, Android, guidelines",
@@ -28,6 +29,7 @@
 					"Load testing in Jmeter",
 					"Scrum development methodology",
 					"Python. (Learning the basics. Creating a client-server application)"
-																																															]
+			
+		]
 
 }
