@@ -116,3 +116,4 @@
 >    at the bottom click "Commite new file"
  18. Синхронизировать внешний и локальный репозиторий TXT
 >    git pull
+
