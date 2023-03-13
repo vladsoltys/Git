@@ -128,3 +128,4 @@
 >    at the bottom click "Commite new file"
  17. Синхронизировать внешний и локальный репозиторий JSON
 >    git pull
+
